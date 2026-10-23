@@ -19,7 +19,7 @@ assets/img/            logo, favicon e fotos da clínica
 2. **Redes sociais.** Os links de Facebook e Instagram ainda apontam para `facebook.com/dentistafernandoestima` e
    `instagram.com/dentistafernandoestima`. Se a página do Facebook mudou, troque em `index.html` (busque por `facebook.com`).
 3. **Antes e depois.** O comparador usa ilustrações. Para usar casos reais (somente com autorização por escrito do paciente,
-   conforme a Resolução CFO 196/2019), preencha `before` e `after` de cada caso em `CASES`, em `assets/js/main.js`.
+   conforme a Resolução CFO 196/2019), preencha `beforeImg` e `afterImg` de cada caso em `CASES`, em `assets/js/main.js`.
 4. **Fotos.** As fotos atuais vieram do site antigo (800px). Fotos novas em alta resolução valorizam bastante o hero e a galeria.
 
 ## Contatos usados no site
